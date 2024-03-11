@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='www.jlab.org/datascience/staff/'>Affiliations</a>. Staff Computer Scientist, Jefferson Lab, Newport News, VA 23606
+subtitle: <a href='https://www.jlab.org/IT/datascience/Reserachers'>Affiliations</a>. Staff Computer Scientist, Jefferson Lab, Newport News, VA 23606
 
 profile:
   align: right
