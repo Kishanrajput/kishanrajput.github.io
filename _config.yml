@@ -6,7 +6,7 @@ title: Kishan Rajput # the website title (if blank, full name will be used inste
 first_name: Kishansingh
 middle_name: 
 last_name: Rajput
-email: kishan@jlab.com
+email: kishan@jlab.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
