@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Projects
 permalink: /projects/
@@ -9,4 +9,4 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<b>Coming Soon...</b>
+<b>Coming Soon...</b> -->

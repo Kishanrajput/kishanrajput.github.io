@@ -1,12 +1,8 @@
-<!-- ---
-layout: cv
-permalink: /cv/
-title: CV
-nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: 
-toc:
-  sidebar: left
 ---
- -->
+layout: page
+title: <a href="/assets/pdf/Kishans-CV.pdf">CV</a> 
+nav: true
+nav_order: 9
+newtab: true
+# permalink: /assets/pdf/Kishans-CV.pdf
+---

@@ -6,14 +6,14 @@ subtitle: <a href='https://www.jlab.org/IT/datascience/Reserachers'>Affiliations
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>12.178F-Cebaf Center</p>
+    <p>12.118A-Cebaf Center</p>
     <p>12000 Jefferson Ave</p>
     <p>Newport News, VA 23606</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
