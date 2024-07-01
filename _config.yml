@@ -122,8 +122,8 @@ contact_note: >
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: all-about-ML # blog_name will be displayed in your blog page
-blog_description: My thoughts on various aspects of Machine Learning and Artificial Intelligence
+blog_name: One sip at a time # blog_name will be displayed in your blog page
+blog_description: Though coffee is more popular in many countries, nothing beats my love for "sweet Indian masala <b>chai</b>".
 permalink: /blog/:year/:title/
 
 # Pagination
