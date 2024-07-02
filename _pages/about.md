@@ -6,7 +6,7 @@ subtitle: <a href='https://www.jlab.org/IT/datascience/Reserachers'>Affiliations
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>12.118A-Cebaf Center</p>
