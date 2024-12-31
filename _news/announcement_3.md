@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting an invited talk at Software Infrastructure for Advance Nuclear Physics Computing}, Newport News, VA
+I will be presenting an invited talk on Composable Softwares in Data Science at Software Infrastructure for Advance Nuclear Physics Computing, Newport News, VA

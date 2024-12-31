@@ -4,13 +4,12 @@
       &copy; Copyright {{ site.time | date: '%Y' }}
       {{ site.first_name }}
       {{ site.middle_name }}
-      {{ site.last_name }}. {{ site.footer_text }}
-      {% if site.impressum_path %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-      {% endif %}
+      {{ site.last_name }}.
+      
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
+      &ensp; <img alt="Hits" src="https://hits.sh/kishanrajput.github.io.svg?extraCount=785&labelColor=000000"/>
     </div>
   </footer>
 {% else %}
