@@ -31,7 +31,7 @@ tags:
 
 featured: false
 
-url_pdf: 'https://arxiv.org/abs/2511.02092'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2666827026000599/pdfft'
 url_code: ''
 url_dataset: ''
 url_poster: ''
