@@ -11,10 +11,10 @@ name:
 postnominals: []
 status:
   icon: ""
-role: "Computer Scientist"
+role: "Staff Computer Scientist III"
 avatar:
   filename: me.png
-bio: "Staff Computer Scientist II at Thomas Jefferson National Accelerator Facility (Jefferson Lab). Specializing in machine learning for particle accelerators and nuclear physics applications, with expertise in reinforcement learning and uncertainty quantification.\n"
+bio: "Staff Computer Scientist III at Thomas Jefferson National Accelerator Facility (Jefferson Lab). Specializing in machine learning for particle accelerators and nuclear physics applications, with expertise in reinforcement learning and uncertainty quantification.\n"
 affiliations:
   - name: "Thomas Jefferson National Accelerator Facility"
     url: "https://www.jlab.org"
@@ -35,9 +35,15 @@ interests:
   - "Optimization and Control"
   - "Particle Accelerator Applications"
 experience:
+  - role: "Staff Computer Scientist III"
+    org: "Thomas Jefferson National Accelerator Facility (Jefferson Lab)"
+    start: "2026-03"
+    summary: |
+      Promoted to Staff Computer Scientist III in March 2026.
   - role: "Staff Computer Scientist II"
     org: "Thomas Jefferson National Accelerator Facility (Jefferson Lab)"
     start: "2020"
+    end: "2026-02"
     summary: |
       Specializing in developing advanced machine learning solutions for science and engineering with a focus on making AI practical and trustworthy for high-impact scientific applications.
       - JLab PI: Towards Higher Brightness Beam for BNL with AI ($700K JLab)

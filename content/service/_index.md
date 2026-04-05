@@ -108,11 +108,13 @@ sections:
           description: |
             - **Convener** - AI/ML for Accelerators, AI for EIC Workshop 2025
             - **Area Chair** - International Joint Conference on Neural Networks (IJCNN 2025), Rome, Italy
+            - **Area Chair** - International Joint Conference on Neural Networks (IJCNN 2026), the Netherlands
           icon: star
           icon_pack: fas
           
         - name: Scientific Organizing Committee
           description: |
+            - **6th Beam Dynamics Workshop on Machine Learning for Particle Accelerators**, Himeji, Japan, April 2026
             - **5th ICFA Beam Dynamics Mini-Workshop** on Machine Learning for Particle Accelerators, CERN, Geneva, Switzerland, April 2025
             - **4th ICFA Beam Dynamics Mini-Workshop** on Applications of ML in Particle Accelerators, Gyeongju-si, South Korea, March 2024
             - **AI for Robust Engineering and Science** (2023, 2024, 2025)
